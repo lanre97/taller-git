@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+void buzz();
+
 int main(){
 	buzz();
 	return 0;
