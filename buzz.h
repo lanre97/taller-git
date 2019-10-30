@@ -1,2 +1,2 @@
 //Imprime buzz
-extern void buzz(void);
+extern void buzzRemasterizado(void);
